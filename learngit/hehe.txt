@@ -4,5 +4,10 @@ alsdjflasjdfl
 asldjflasjdf
 asd;fjalsdfjalsdfj
 asdfljasdflasdjfl
+<<<<<<< HEAD
 Ð¦ËÀÁË
 12345
+=======
+Ð¦ËÀÁË
+12345
+>>>>>>> featurel
